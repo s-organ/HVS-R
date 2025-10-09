@@ -1,1 +1,1 @@
-The HVS R file implements the method from scratch, the SetSel_1.0.0.tar is an R package for this method
+The HVS R file implements the method from scratch without external programming, the SetSel_1.0.0.tar is an R package for this method that uses C++ versions of the code and is faster for larger graphs
